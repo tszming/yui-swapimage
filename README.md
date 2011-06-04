@@ -117,7 +117,11 @@ Also have a look at my Metadata plugin for YUI (https://github.com/tszming/yui-m
 Please view the source code of this link: http://labs.xddnet.com/yui-swapimage/example/example.html
 
 ----
+### License 
 
-### Contact
+Copyright (c) 2011 tszming (tszming@gmail.com)
 
-Feedback and suggestions are always welcome, you can reach me at tszming at gmail dot com.    
+Dual licensed under the MIT and GPL licenses:
+http://www.opensource.org/licenses/mit-license.php
+http://www.gnu.org/licenses/gpl.html
+
