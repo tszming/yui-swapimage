@@ -109,13 +109,6 @@ Also have a look at my Metadata plugin for YUI (https://github.com/tszming/yui-m
         <img id="main" src="images/blank.gif" />
         <img class="swapImage {sin: ['#main:images/a.gif'], sout: ['#main:images/blank.gif'] }" src="images/1.gif" />
 
-
-----
-
-### Documentions and demo
-
-Please view the source code of this link: http://labs.xddnet.com/yui-swapimage/example/example.html
-
 ----
 ### License 
 
